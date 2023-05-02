@@ -17,7 +17,7 @@ btn.appendChild(document.createTextNode('delete'));
 li.appendChild(btn);
 list.appendChild(li);
 
-
+// delet data
 // delete btn
 btn.addEventListener('click',dltbtn);
 function dltbtn(e) {
